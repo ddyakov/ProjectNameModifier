@@ -3,7 +3,6 @@
 using FluentValidation;
 using FluentValidation.Results;
 
-using Models;
 using Validators;
 
 internal static class UserInput
